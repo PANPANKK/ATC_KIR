@@ -23,11 +23,13 @@ The format of the annotated data is as follows:
 2. {"id":513,"text":"三五右跑道外等吉祥幺幺拐六","label":[[0,6,"前提条件"],[6,7,"动作"],[7,13,"呼号"]],"Comments":[]}
 
 This paper introduces a prompt classification task, hence requiring the annotated data to be transformed into the following format: 
+
 1.
   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "东方两八洞六", "start": 0, "end": 6}], "prompt": "呼号"}
   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "地面幺两幺点六", "start": 8, "end": 15}], "prompt": "动作值"}
   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "联系", "start": 6, "end": 8}], "prompt": "动作"}
   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [], "prompt": "前提条件"}
+  
 2.
   {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [], "prompt": "动作值"}
   {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "三五右跑道外", "start": 0, "end": 6}], "prompt": "前提条件"}
