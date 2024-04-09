@@ -1,13 +1,17 @@
 This paper presents a small sample-driven keyword information extraction framework, SLKIR, for the air traffic control domain.
 
 The main contributions of this paper are as follows:
-	We conducted an in-depth study on constructing a robust KIR model driven by small sample data. Specifically, we built an end-to-end KIR deep 
+   
+    We conducted an in-depth study on constructing a robust KIR model driven by small sample data. Specifically, we built an end-to-end KIR deep 
     learning framework based on the MHLA mechanism. 
-	We cleverly designed a discriminative task based on prompt information. By discriminating whether the control instructions contain externally
+    
+    We cleverly designed a discriminative task based on prompt information. By discriminating whether the control instructions contain externally
     inputted prompt information, we enhance the semantic understanding of the input control instructions by the backbone network. 
-	We proposed a loss function optimization strategy for addressing the issue of boundary word information sparsity in the KIR process. This 
+   
+    We proposed a loss function optimization strategy for addressing the issue of boundary word information sparsity in the KIR process. This 
     optimization strategy can enhance the model’s learning capability. 
-	Building on previous research10, 11, and considering the characteristics of air traffic control as well as the key information required by 
+    
+    Building on previous research10, 11, and considering the characteristics of air traffic control as well as the key information required by 
     intelligent agents to execute instructions, this paper provides a detailed classification of key information categories in control instructions, 
     including Callsign, Action, Action Value, and Condition.
 
