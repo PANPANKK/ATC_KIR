@@ -1,0 +1,683 @@
+﻿{"content": "保持幺五飞VOR台，五海里报，拐洞Juliett幺", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "飞", "start": 4, "end": 5}, {"text": "报", "start": 13, "end": 14}], "prompt": "动作"}
+{"content": "保持幺五飞VOR台，五海里报，拐洞Juliett幺", "result_list": [{"text": "幺五", "start": 2, "end": 4}, {"text": "VOR台", "start": 5, "end": 9}], "prompt": "动作值"}
+{"content": "保持幺五飞VOR台，五海里报，拐洞Juliett幺", "result_list": [{"text": "五海里", "start": 10, "end": 13}], "prompt": "前提条件"}
+{"content": "保持幺五飞VOR台，五海里报，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 15, "end": 25}], "prompt": "呼号"}
+{"content": "九两八两，右转飞远台了", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，右转飞远台了", "result_list": [{"text": "右转飞", "start": 5, "end": 8}], "prompt": "动作"}
+{"content": "九两八两，右转飞远台了", "result_list": [{"text": "远台", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，下一千，八海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，下一千，八海里报告", "result_list": [{"text": "下", "start": 11, "end": 12}, {"text": "报告", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，下一千，八海里报告", "result_list": [{"text": "一千", "start": 12, "end": 14}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，下一千，八海里报告", "result_list": [{"text": "八海里", "start": 15, "end": 18}], "prompt": "前提条件"}
+{"content": "背台五海里报告", "result_list": [{"text": "背台五海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "背台五海里报告", "result_list": [{"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "九八洞幺，右转幺两过台报告", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，右转幺两过台报告", "result_list": [{"text": "右转", "start": 5, "end": 7}, {"text": "报告", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "九八洞幺，右转幺两过台报告", "result_list": [{"text": "幺两", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "九八洞幺，右转幺两过台报告", "result_list": [{"text": "过台", "start": 9, "end": 11}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，两幺飞临时洞拐，能不能下点高度啊", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，两幺飞临时洞拐，能不能下点高度啊", "result_list": [{"text": "两幺", "start": 8, "end": 10}, {"text": "临时洞拐", "start": 11, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Kilo八，两幺飞临时洞拐，能不能下点高度啊", "result_list": [{"text": "飞", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "拐九三拐，下幺两，过台加背台边，五海里报告", "result_list": [{"text": "拐九三拐", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "拐九三拐，下幺两，过台加背台边，五海里报告", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "加", "start": 11, "end": 12}, {"text": "报告", "start": 19, "end": 21}], "prompt": "动作"}
+{"content": "拐九三拐，下幺两，过台加背台边，五海里报告", "result_list": [{"text": "幺两", "start": 6, "end": 8}, {"text": "背台边", "start": 12, "end": 15}], "prompt": "动作值"}
+{"content": "拐九三拐，下幺两，过台加背台边，五海里报告", "result_list": [{"text": "过台", "start": 9, "end": 11}, {"text": "五海里", "start": 16, "end": 19}], "prompt": "前提条件"}
+{"content": "额四点八以后下七百上空", "result_list": [{"text": "四点八以后", "start": 1, "end": 6}], "prompt": "前提条件"}
+{"content": "额四点八以后下七百上空", "result_list": [{"text": "下", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "额四点八以后下七百上空", "result_list": [{"text": "七百", "start": 7, "end": 9}, {"text": "上空", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "右转幺两过台报告，九八洞幺", "result_list": [{"text": "右转", "start": 0, "end": 2}, {"text": "报告", "start": 6, "end": 8}], "prompt": "动作"}
+{"content": "右转幺两过台报告，九八洞幺", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "右转幺两过台报告，九八洞幺", "result_list": [{"text": "过台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "右转幺两过台报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 9, "end": 13}], "prompt": "呼号"}
+{"content": "加一边保持幺八，三六洞", "result_list": [{"text": "加", "start": 0, "end": 1}, {"text": "保持", "start": 3, "end": 5}], "prompt": "动作"}
+{"content": "加一边保持幺八，三六洞", "result_list": [{"text": "一边", "start": 1, "end": 3}, {"text": "幺八", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "拐九三拐，可以转了，八百向台报告", "result_list": [{"text": "拐九三拐", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "拐九三拐，可以转了，八百向台报告", "result_list": [{"text": "转", "start": 7, "end": 8}, {"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "拐九三拐，可以转了，八百向台报告", "result_list": [{"text": "八百", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "拐九三拐，可以转了，八百向台报告", "result_list": [{"text": "向台", "start": 12, "end": 14}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，一边上九百报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，一边上九百报告", "result_list": [{"text": "一边", "start": 11, "end": 13}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，一边上九百报告", "result_list": [{"text": "上", "start": 13, "end": 14}, {"text": "报告", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，一边上九百报告", "result_list": [{"text": "九百", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "拐洞Kilo六，当前位置可以右盘旋下九百报告", "result_list": [{"text": "拐洞Kilo六", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo六，当前位置可以右盘旋下九百报告", "result_list": [{"text": "当前位置", "start": 8, "end": 12}], "prompt": "前提条件"}
+{"content": "拐洞Kilo六，当前位置可以右盘旋下九百报告", "result_list": [{"text": "右盘旋下", "start": 14, "end": 18}, {"text": "报告", "start": 20, "end": 22}], "prompt": "动作"}
+{"content": "拐洞Kilo六，当前位置可以右盘旋下九百报告", "result_list": [{"text": "九百", "start": 18, "end": 20}], "prompt": "动作值"}
+{"content": "背台五海里报告，九八洞幺", "result_list": [{"text": "背台五海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "背台五海里报告，九八洞幺", "result_list": [{"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "背台五海里报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "拐洞Kilo六，保持幺五飞保升镇", "result_list": [{"text": "拐洞Kilo六", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo六，保持幺五飞保升镇", "result_list": [{"text": "保持", "start": 8, "end": 10}, {"text": "飞", "start": 12, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Kilo六，保持幺五飞保升镇", "result_list": [{"text": "幺五", "start": 10, "end": 12}, {"text": "保升镇", "start": 13, "end": 16}], "prompt": "动作值"}
+{"content": "九八洞幺，下七百飞上空，联系塔台再见", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，下七百飞上空，联系塔台再见", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "飞", "start": 8, "end": 9}, {"text": "联系", "start": 12, "end": 14}], "prompt": "动作"}
+{"content": "九八洞幺，下七百飞上空，联系塔台再见", "result_list": [{"text": "七百", "start": 6, "end": 8}, {"text": "上空", "start": 9, "end": 11}, {"text": "塔台", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "三六洞九，联系塔台再见", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，联系塔台再见", "result_list": [{"text": "联系", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "三六洞九，联系塔台再见", "result_list": [{"text": "塔台", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "三六洞九，沿一边下幺两", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，沿一边下幺两", "result_list": [{"text": "沿一边", "start": 5, "end": 8}], "prompt": "前提条件"}
+{"content": "三六洞九，沿一边下幺两", "result_list": [{"text": "下", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "三六洞九，沿一边下幺两", "result_list": [{"text": "幺两", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "右转保持幺五过台报，拐九三", "result_list": [{"text": "右转", "start": 0, "end": 2}, {"text": "保持", "start": 2, "end": 4}, {"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "右转保持幺五过台报，拐九三", "result_list": [{"text": "幺五", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "右转保持幺五过台报，拐九三", "result_list": [{"text": "过台", "start": 6, "end": 8}], "prompt": "前提条件"}
+{"content": "右转保持幺五过台报，拐九三", "result_list": [{"text": "拐九三", "start": 10, "end": 13}], "prompt": "呼号"}
+{"content": "三六洞九，下一千，背台拐海里报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，下一千，背台拐海里报告", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "三六洞九，下一千，背台拐海里报告", "result_list": [{"text": "一千", "start": 6, "end": 8}], "prompt": "动作值"}
+{"content": "三六洞九，下一千，背台拐海里报告", "result_list": [{"text": "背台拐海里", "start": 9, "end": 14}], "prompt": "前提条件"}
+{"content": "一千，五，五海，额，八海里报，九两", "result_list": [{"text": "一千", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "一千，五，五海，额，八海里报，九两", "result_list": [{"text": "八海里", "start": 10, "end": 13}], "prompt": "前提条件"}
+{"content": "一千，五，五海，额，八海里报，九两", "result_list": [{"text": "报", "start": 13, "end": 14}], "prompt": "动作"}
+{"content": "拐洞Lima幺，右转过VOR台报告", "result_list": [{"text": "拐洞Lima幺", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，右转过VOR台报告", "result_list": [{"text": "右转", "start": 8, "end": 10}, {"text": "报告", "start": 15, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Lima幺，右转过VOR台报告", "result_list": [{"text": "过VOR台", "start": 10, "end": 15}], "prompt": "前提条件"}
+{"content": "拐洞，拐九三拐，保持幺两，背台八海里报告", "result_list": [{"text": "拐九三拐", "start": 3, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞，拐九三拐，保持幺两，背台八海里报告", "result_list": [{"text": "保持", "start": 8, "end": 10}, {"text": "报告", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "拐洞，拐九三拐，保持幺两，背台八海里报告", "result_list": [{"text": "幺两", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "拐洞，拐九三拐，保持幺两，背台八海里报告", "result_list": [{"text": "背台八海里", "start": 13, "end": 18}], "prompt": "前提条件"}
+{"content": "幺洞XrayPapa，收到了，下高度幺五，幺五海里右转飞蓬莱", "result_list": [{"text": "幺洞XrayPapa", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "幺洞XrayPapa，收到了，下高度幺五，幺五海里右转飞蓬莱", "result_list": [{"text": "下高度", "start": 15, "end": 18}, {"text": "右转飞", "start": 25, "end": 28}], "prompt": "动作"}
+{"content": "幺洞XrayPapa，收到了，下高度幺五，幺五海里右转飞蓬莱", "result_list": [{"text": "幺五", "start": 18, "end": 20}, {"text": "蓬莱", "start": 28, "end": 30}], "prompt": "动作值"}
+{"content": "幺洞XrayPapa，收到了，下高度幺五，幺五海里右转飞蓬莱", "result_list": [{"text": "幺五海里", "start": 21, "end": 25}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，额现在可以程序转弯，切，下八百，五边航道报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，额现在可以程序转弯，切，下八百，五边航道报告", "result_list": [{"text": "现在", "start": 12, "end": 14}, {"text": "五边航道", "start": 27, "end": 31}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，额现在可以程序转弯，切，下八百，五边航道报告", "result_list": [{"text": "程序转弯", "start": 16, "end": 20}, {"text": "下", "start": 23, "end": 24}, {"text": "报告", "start": 31, "end": 33}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，额现在可以程序转弯，切，下八百，五边航道报告", "result_list": [{"text": "八百", "start": 24, "end": 26}], "prompt": "动作值"}
+{"content": "啊联系塔台再见，九两八两", "result_list": [{"text": "联系", "start": 1, "end": 3}], "prompt": "动作"}
+{"content": "啊联系塔台再见，九两八两", "result_list": [{"text": "塔台", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "啊联系塔台再见，九两八两", "result_list": [{"text": "九两八两", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "飞向临时洞八，下幺八，拐洞Kilo八", "result_list": [{"text": "飞向", "start": 0, "end": 2}, {"text": "下", "start": 7, "end": 8}], "prompt": "动作"}
+{"content": "飞向临时洞八，下幺八，拐洞Kilo八", "result_list": [{"text": "临时洞八", "start": 2, "end": 6}, {"text": "幺八", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "飞向临时洞八，下幺八，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 11, "end": 18}], "prompt": "呼号"}
+{"content": "三六洞九，保持幺两，背台五海里报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，保持幺两，背台五海里报告", "result_list": [{"text": "保持", "start": 5, "end": 7}, {"text": "报告", "start": 15, "end": 17}], "prompt": "动作"}
+{"content": "三六洞九，保持幺两，背台五海里报告", "result_list": [{"text": "幺两", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "三六洞九，保持幺两，背台五海里报告", "result_list": [{"text": "背台五海里", "start": 10, "end": 15}], "prompt": "前提条件"}
+{"content": "下一千，八海里报告，九八洞幺", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报告", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "下一千，八海里报告，九八洞幺", "result_list": [{"text": "一千", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下一千，八海里报告，九八洞幺", "result_list": [{"text": "八海里", "start": 4, "end": 7}], "prompt": "前提条件"}
+{"content": "下一千，八海里报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 10, "end": 14}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "背台五海里", "start": 11, "end": 16}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "报告", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，联系塔台再见", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，联系塔台再见", "result_list": [{"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，联系塔台再见", "result_list": [{"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "三六八幺，下一千，向台报告", "result_list": [{"text": "三六八幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六八幺，下一千，向台报告", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "报告", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "三六八幺，下一千，向台报告", "result_list": [{"text": "一千", "start": 6, "end": 8}], "prompt": "动作值"}
+{"content": "三六八幺，下一千，向台报告", "result_list": [{"text": "向台", "start": 9, "end": 11}], "prompt": "前提条件"}
+{"content": "Kilo八，飞向临时洞八，下幺八", "result_list": [{"text": "Kilo八", "start": 0, "end": 5}], "prompt": "呼号"}
+{"content": "Kilo八，飞向临时洞八，下幺八", "result_list": [{"text": "飞向", "start": 6, "end": 8}, {"text": "下", "start": 13, "end": 14}], "prompt": "动作"}
+{"content": "Kilo八，飞向临时洞八，下幺八", "result_list": [{"text": "临时洞八", "start": 8, "end": 12}, {"text": "幺八", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "好嘞，到临时洞拐报，拐洞Kilo八", "result_list": [{"text": "到临时洞拐", "start": 3, "end": 8}], "prompt": "前提条件"}
+{"content": "好嘞，到临时洞拐报，拐洞Kilo八", "result_list": [{"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "好嘞，到临时洞拐报，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 10, "end": 17}], "prompt": "呼号"}
+{"content": "啊右转远台报，拐洞Lima幺", "result_list": [{"text": "右转", "start": 1, "end": 3}, {"text": "报", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "啊右转远台报，拐洞Lima幺", "result_list": [{"text": "远台", "start": 3, "end": 5}], "prompt": "前提条件"}
+{"content": "啊右转远台报，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 7, "end": 14}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，保持背台边听指挥吧", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，保持背台边听指挥吧", "result_list": [{"text": "保持", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，保持背台边听指挥吧", "result_list": [{"text": "背台边", "start": 13, "end": 16}], "prompt": "动作值"}
+{"content": "保持两幺飞临时洞拐，拐洞Kilo八", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "飞", "start": 4, "end": 5}], "prompt": "动作"}
+{"content": "保持两幺飞临时洞拐，拐洞Kilo八", "result_list": [{"text": "两幺", "start": 2, "end": 4}, {"text": "临时洞拐", "start": 5, "end": 9}], "prompt": "动作值"}
+{"content": "保持两幺飞临时洞拐，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 10, "end": 17}], "prompt": "呼号"}
+{"content": "啊联系塔台再见，拐洞Kilo拐", "result_list": [{"text": "联系", "start": 1, "end": 3}], "prompt": "动作"}
+{"content": "啊联系塔台再见，拐洞Kilo拐", "result_list": [{"text": "塔台", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "啊联系塔台再见，拐洞Kilo拐", "result_list": [{"text": "拐洞Kilo拐", "start": 8, "end": 15}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，保持幺两，背台六海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，保持幺两，背台六海里报告", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "报告", "start": 21, "end": 23}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，保持幺两，背台六海里报告", "result_list": [{"text": "幺两", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，保持幺两，背台六海里报告", "result_list": [{"text": "背台六海里", "start": 16, "end": 21}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，八百向台报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，八百向台报告", "result_list": [{"text": "八百", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，八百向台报告", "result_list": [{"text": "向台", "start": 13, "end": 15}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，八百向台报告", "result_list": [{"text": "报告", "start": 15, "end": 17}], "prompt": "动作"}
+{"content": "哎，七百上空，九两八两", "result_list": [{"text": "七百", "start": 2, "end": 4}, {"text": "上空", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "哎，七百上空，九两八两", "result_list": [{"text": "九两八两", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "九百保升，拐洞Lima洞", "result_list": [{"text": "九百", "start": 0, "end": 2}, {"text": "保升", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "九百保升，拐洞Lima洞", "result_list": [{"text": "拐洞Lima洞", "start": 5, "end": 12}], "prompt": "呼号"}
+{"content": "拐洞Lima洞，安居活动，退出空域报告", "result_list": [{"text": "拐洞Lima洞", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima洞，安居活动，退出空域报告", "result_list": [{"text": "安居", "start": 8, "end": 10}, {"text": "退出空域", "start": 13, "end": 17}], "prompt": "前提条件"}
+{"content": "拐洞Lima洞，安居活动，退出空域报告", "result_list": [{"text": "活动", "start": 10, "end": 12}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "拐洞Lima幺，下七百联系塔台再见", "result_list": [{"text": "拐洞Lima幺", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，下七百联系塔台再见", "result_list": [{"text": "下", "start": 8, "end": 9}, {"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Lima幺，下七百联系塔台再见", "result_list": [{"text": "七百", "start": 9, "end": 11}, {"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "九两八两，下七百飞上空", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，下七百飞上空", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "飞", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "九两八两，下七百飞上空", "result_list": [{"text": "七百", "start": 6, "end": 8}, {"text": "上空", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "下一千八海里报，拐洞Juliett幺", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "下一千八海里报，拐洞Juliett幺", "result_list": [{"text": "一千", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下一千八海里报，拐洞Juliett幺", "result_list": [{"text": "八海里", "start": 3, "end": 6}], "prompt": "前提条件"}
+{"content": "下一千八海里报，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 8, "end": 18}], "prompt": "呼号"}
+{"content": "好嘞，四点八之后下七百上空", "result_list": [{"text": "四点八之后", "start": 3, "end": 8}], "prompt": "前提条件"}
+{"content": "好嘞，四点八之后下七百上空", "result_list": [{"text": "下", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "好嘞，四点八之后下七百上空", "result_list": [{"text": "七百", "start": 9, "end": 11}, {"text": "上空", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "临时洞拐下幺八活动，拐洞Kilo", "result_list": [{"text": "临时洞拐", "start": 0, "end": 4}], "prompt": "前提条件"}
+{"content": "临时洞拐下幺八活动，拐洞Kilo", "result_list": [{"text": "下", "start": 4, "end": 5}, {"text": "活动", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "临时洞拐下幺八活动，拐洞Kilo", "result_list": [{"text": "幺八", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "临时洞拐下幺八活动，拐洞Kilo", "result_list": [{"text": "拐洞Kilo", "start": 10, "end": 16}], "prompt": "呼号"}
+{"content": "九八洞幺，八百向台报告", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，八百向台报告", "result_list": [{"text": "八百", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "九八洞幺，八百向台报告", "result_list": [{"text": "向台", "start": 7, "end": 9}], "prompt": "前提条件"}
+{"content": "九八洞幺，八百向台报告", "result_list": [{"text": "报告", "start": 9, "end": 11}], "prompt": "动作"}
+{"content": "保持幺两，背台五海里报，三六洞九", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "报", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "保持幺两，背台五海里报，三六洞九", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持幺两，背台五海里报，三六洞九", "result_list": [{"text": "背台五海里", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "保持幺两，背台五海里报，三六洞九", "result_list": [{"text": "三六洞九", "start": 12, "end": 16}], "prompt": "呼号"}
+{"content": "八百向台报，三六洞九", "result_list": [{"text": "八百", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "八百向台报，三六洞九", "result_list": [{"text": "向台", "start": 2, "end": 4}], "prompt": "前提条件"}
+{"content": "八百向台报，三六洞九", "result_list": [{"text": "报", "start": 4, "end": 5}], "prompt": "动作"}
+{"content": "八百向台报，三六洞九", "result_list": [{"text": "三六洞九", "start": 6, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "背台五海里", "start": 11, "end": 16}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，背台五海里报告", "result_list": [{"text": "报告", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "幺八，上空等待，三六洞九", "result_list": [{"text": "幺八", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "幺八，上空等待，三六洞九", "result_list": [{"text": "上空", "start": 3, "end": 5}], "prompt": "前提条件"}
+{"content": "幺八，上空等待，三六洞九", "result_list": [{"text": "等待", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "幺八，上空等待，三六洞九", "result_list": [{"text": "三六洞九", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "三六洞九，右转下幺两过台报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，右转下幺两过台报告", "result_list": [{"text": "右转下", "start": 5, "end": 8}, {"text": "报告", "start": 12, "end": 14}], "prompt": "动作"}
+{"content": "三六洞九，右转下幺两过台报告", "result_list": [{"text": "幺两", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "三六洞九，右转下幺两过台报告", "result_list": [{"text": "过台", "start": 10, "end": 12}], "prompt": "前提条件"}
+{"content": "幺两，过台加背台边，五海里报，拐九三拐", "result_list": [{"text": "幺两", "start": 0, "end": 2}, {"text": "背台边", "start": 6, "end": 9}], "prompt": "动作值"}
+{"content": "幺两，过台加背台边，五海里报，拐九三拐", "result_list": [{"text": "过台", "start": 3, "end": 5}, {"text": "五海里", "start": 10, "end": 13}], "prompt": "前提条件"}
+{"content": "幺两，过台加背台边，五海里报，拐九三拐", "result_list": [{"text": "加", "start": 5, "end": 6}, {"text": "报", "start": 13, "end": 14}], "prompt": "动作"}
+{"content": "幺两，过台加背台边，五海里报，拐九三拐", "result_list": [{"text": "拐九三拐", "start": 15, "end": 19}], "prompt": "呼号"}
+{"content": "三六洞九，可以上幺八，上空等待", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，可以上幺八，上空等待", "result_list": [{"text": "上", "start": 7, "end": 8}, {"text": "等待", "start": 13, "end": 15}], "prompt": "动作"}
+{"content": "三六洞九，可以上幺八，上空等待", "result_list": [{"text": "幺八", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "三六洞九，可以上幺八，上空等待", "result_list": [{"text": "上空", "start": 11, "end": 13}], "prompt": "前提条件"}
+{"content": "拐洞Uniform六，保持九百飞上空，联系塔台再见", "result_list": [{"text": "拐洞Uniform六", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform六，保持九百飞上空，联系塔台再见", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "飞", "start": 15, "end": 16}, {"text": "联系", "start": 19, "end": 21}], "prompt": "动作"}
+{"content": "拐洞Uniform六，保持九百飞上空，联系塔台再见", "result_list": [{"text": "九百", "start": 13, "end": 15}, {"text": "上空", "start": 16, "end": 18}, {"text": "塔台", "start": 21, "end": 23}], "prompt": "动作值"}
+{"content": "拐洞Kilo八，空域结束了九百灵泉寺报告", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，空域结束了九百灵泉寺报告", "result_list": [{"text": "九百", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Kilo八，空域结束了九百灵泉寺报告", "result_list": [{"text": "灵泉寺", "start": 15, "end": 18}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，空域结束了九百灵泉寺报告", "result_list": [{"text": "报告", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "幺洞XrayPapa，入航后联系校部，脱波报告", "result_list": [{"text": "幺洞XrayPapa", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "幺洞XrayPapa，入航后联系校部，脱波报告", "result_list": [{"text": "入航后", "start": 11, "end": 14}, {"text": "脱波", "start": 19, "end": 21}], "prompt": "前提条件"}
+{"content": "幺洞XrayPapa，入航后联系校部，脱波报告", "result_list": [{"text": "联系", "start": 14, "end": 16}, {"text": "报告", "start": 21, "end": 23}], "prompt": "动作"}
+{"content": "幺洞XrayPapa，入航后联系校部，脱波报告", "result_list": [{"text": "校部", "start": 16, "end": 18}], "prompt": "动作值"}
+{"content": "拐洞Lima幺，下八百向台报告", "result_list": [{"text": "拐洞Lima幺", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，下八百向台报告", "result_list": [{"text": "下", "start": 8, "end": 9}, {"text": "报告", "start": 13, "end": 15}], "prompt": "动作"}
+{"content": "拐洞Lima幺，下八百向台报告", "result_list": [{"text": "八百", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "拐洞Lima幺，下八百向台报告", "result_list": [{"text": "向台", "start": 11, "end": 13}], "prompt": "前提条件"}
+{"content": "脱波报，三六洞九", "result_list": [{"text": "脱波", "start": 0, "end": 2}], "prompt": "前提条件"}
+{"content": "脱波报，三六洞九", "result_list": [{"text": "报", "start": 2, "end": 3}], "prompt": "动作"}
+{"content": "脱波报，三六洞九", "result_list": [{"text": "三六洞九", "start": 4, "end": 8}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，左转飞蓬莱，保持幺五", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，左转飞蓬莱，保持幺五", "result_list": [{"text": "左转飞", "start": 12, "end": 15}, {"text": "保持", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，左转飞蓬莱，保持幺五", "result_list": [{"text": "蓬莱", "start": 15, "end": 17}, {"text": "幺五", "start": 20, "end": 22}], "prompt": "动作值"}
+{"content": "九两八两，飞航向两幺五，上幺两", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，飞航向两幺五，上幺两", "result_list": [{"text": "飞航向", "start": 5, "end": 8}, {"text": "上", "start": 12, "end": 13}], "prompt": "动作"}
+{"content": "九两八两，飞航向两幺五，上幺两", "result_list": [{"text": "两幺五", "start": 8, "end": 11}, {"text": "幺两", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "九八洞幺，四点八海里报告", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，四点八海里报告", "result_list": [{"text": "四点八海里", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "九八洞幺，四点八海里报告", "result_list": [{"text": "报告", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "拐洞Kilo拐，大速度", "result_list": [{"text": "拐洞Kilo拐", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，大速度", "result_list": [{"text": "大速度", "start": 8, "end": 11}], "prompt": "动作"}
+{"content": "上幺两过台报告", "result_list": [{"text": "上", "start": 0, "end": 1}, {"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "上幺两过台报告", "result_list": [{"text": "幺两", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "上幺两过台报告", "result_list": [{"text": "过台", "start": 3, "end": 5}], "prompt": "前提条件"}
+{"content": "向台报，拐洞Uniform拐", "result_list": [{"text": "向台", "start": 0, "end": 2}], "prompt": "前提条件"}
+{"content": "向台报，拐洞Uniform拐", "result_list": [{"text": "报", "start": 2, "end": 3}], "prompt": "动作"}
+{"content": "向台报，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 4, "end": 14}], "prompt": "呼号"}
+{"content": "航向上幺两报，三六洞九", "result_list": [{"text": "航向", "start": 0, "end": 2}], "prompt": "前提条件"}
+{"content": "航向上幺两报，三六洞九", "result_list": [{"text": "上", "start": 2, "end": 3}, {"text": "报", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "航向上幺两报，三六洞九", "result_list": [{"text": "幺两", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "航向上幺两报，三六洞九", "result_list": [{"text": "三六洞九", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "左转飞蓬莱，保持幺五", "result_list": [{"text": "左转飞", "start": 0, "end": 3}, {"text": "保持", "start": 6, "end": 8}], "prompt": "动作"}
+{"content": "左转飞蓬莱，保持幺五", "result_list": [{"text": "蓬莱", "start": 3, "end": 5}, {"text": "幺五", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "九百，保持九百飞上空，联系塔台再见，拐洞Lima洞", "result_list": [{"text": "保持", "start": 3, "end": 5}, {"text": "飞", "start": 7, "end": 8}, {"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "九百，保持九百飞上空，联系塔台再见，拐洞Lima洞", "result_list": [{"text": "九百", "start": 5, "end": 7}, {"text": "上空", "start": 8, "end": 10}, {"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "九百，保持九百飞上空，联系塔台再见，拐洞Lima洞", "result_list": [{"text": "拐洞Lima洞", "start": 18, "end": 25}], "prompt": "呼号"}
+{"content": "九两八两，下七百保持，联系塔台再见", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，下七百保持，联系塔台再见", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "九两八两，下七百保持，联系塔台再见", "result_list": [{"text": "七百", "start": 6, "end": 8}, {"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "入航后联系校部，脱波报告，幺洞XrayPapa", "result_list": [{"text": "入航后", "start": 0, "end": 3}, {"text": "脱波", "start": 8, "end": 10}], "prompt": "前提条件"}
+{"content": "入航后联系校部，脱波报告，幺洞XrayPapa", "result_list": [{"text": "联系", "start": 3, "end": 5}, {"text": "报告", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "入航后联系校部，脱波报告，幺洞XrayPapa", "result_list": [{"text": "校部", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "入航后联系校部，脱波报告，幺洞XrayPapa", "result_list": [{"text": "幺洞XrayPapa", "start": 13, "end": 23}], "prompt": "呼号"}
+{"content": "四点八海里报告，九八洞幺", "result_list": [{"text": "四点八海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "四点八海里报告，九八洞幺", "result_list": [{"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "四点八海里报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "三六洞九，脱波报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，脱波报告", "result_list": [{"text": "脱波", "start": 5, "end": 7}], "prompt": "前提条件"}
+{"content": "三六洞九，脱波报告", "result_list": [{"text": "报告", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，保持幺五临时洞六活动", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，保持幺五临时洞六活动", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "活动", "start": 19, "end": 21}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，保持幺五临时洞六活动", "result_list": [{"text": "幺五", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，保持幺五临时洞六活动", "result_list": [{"text": "临时洞六", "start": 15, "end": 19}], "prompt": "前提条件"}
+{"content": "幺洞XrayAlpha，左转飞航向洞三五，上幺五", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，左转飞航向洞三五，上幺五", "result_list": [{"text": "左转飞", "start": 12, "end": 15}, {"text": "上", "start": 21, "end": 22}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，左转飞航向洞三五，上幺五", "result_list": [{"text": "航向洞三五", "start": 15, "end": 20}, {"text": "幺五", "start": 22, "end": 24}], "prompt": "动作值"}
+{"content": "八百五边航道报，拐洞Juliett幺", "result_list": [{"text": "八百", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "八百五边航道报，拐洞Juliett幺", "result_list": [{"text": "五边航道", "start": 2, "end": 6}], "prompt": "前提条件"}
+{"content": "八百五边航道报，拐洞Juliett幺", "result_list": [{"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "八百五边航道报，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 8, "end": 18}], "prompt": "呼号"}
+{"content": "额上幺两，远台报，九两八两", "result_list": [{"text": "上", "start": 1, "end": 2}, {"text": "报", "start": 7, "end": 8}], "prompt": "动作"}
+{"content": "额上幺两，远台报，九两八两", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "额上幺两，远台报，九两八两", "result_list": [{"text": "远台", "start": 5, "end": 7}], "prompt": "前提条件"}
+{"content": "额上幺两，远台报，九两八两", "result_list": [{"text": "九两八两", "start": 9, "end": 13}], "prompt": "呼号"}
+{"content": "台上空等待收到了，保持幺五飞VOR台吧，幺洞海里报告", "result_list": [{"text": "保持", "start": 9, "end": 11}, {"text": "飞", "start": 13, "end": 14}, {"text": "报告", "start": 24, "end": 26}], "prompt": "动作"}
+{"content": "台上空等待收到了，保持幺五飞VOR台吧，幺洞海里报告", "result_list": [{"text": "幺五", "start": 11, "end": 13}, {"text": "VOR台", "start": 14, "end": 18}], "prompt": "动作值"}
+{"content": "台上空等待收到了，保持幺五飞VOR台吧，幺洞海里报告", "result_list": [{"text": "幺洞海里", "start": 20, "end": 24}], "prompt": "前提条件"}
+{"content": "保持九百一边，九八洞幺", "result_list": [{"text": "保持", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "保持九百一边，九八洞幺", "result_list": [{"text": "九百", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持九百一边，九八洞幺", "result_list": [{"text": "一边", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "保持九百一边，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "下八百向台报告", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "下八百向台报告", "result_list": [{"text": "八百", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下八百向台报告", "result_list": [{"text": "向台", "start": 3, "end": 5}], "prompt": "前提条件"}
+{"content": "空域下幺两活动，拐洞Kilo八", "result_list": [{"text": "空域", "start": 0, "end": 2}], "prompt": "前提条件"}
+{"content": "空域下幺两活动，拐洞Kilo八", "result_list": [{"text": "下", "start": 2, "end": 3}, {"text": "活动", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "空域下幺两活动，拐洞Kilo八", "result_list": [{"text": "幺两", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "空域下幺两活动，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 8, "end": 15}], "prompt": "呼号"}
+{"content": "十秒转，八百向台报，九两八两", "result_list": [{"text": "十秒", "start": 0, "end": 2}, {"text": "向台", "start": 6, "end": 8}], "prompt": "前提条件"}
+{"content": "十秒转，八百向台报，九两八两", "result_list": [{"text": "转，", "start": 2, "end": 4}, {"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "十秒转，八百向台报，九两八两", "result_list": [{"text": "八百", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "十秒转，八百向台报，九两八两", "result_list": [{"text": "九两八两", "start": 10, "end": 14}], "prompt": "呼号"}
+{"content": "幺五海里报，拐洞Kilo拐", "result_list": [{"text": "幺五海里", "start": 0, "end": 4}], "prompt": "前提条件"}
+{"content": "幺五海里报，拐洞Kilo拐", "result_list": [{"text": "报", "start": 4, "end": 5}], "prompt": "动作"}
+{"content": "幺五海里报，拐洞Kilo拐", "result_list": [{"text": "拐洞Kilo拐", "start": 6, "end": 13}], "prompt": "呼号"}
+{"content": "右盘旋下九百报，拐洞Kilo六", "result_list": [{"text": "右盘旋下", "start": 0, "end": 4}, {"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "右盘旋下九百报，拐洞Kilo六", "result_list": [{"text": "九百", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "右盘旋下九百报，拐洞Kilo六", "result_list": [{"text": "拐洞Kilo六", "start": 8, "end": 15}], "prompt": "呼号"}
+{"content": "背台五海里报告", "result_list": [{"text": "背台五海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "背台五海里报告", "result_list": [{"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "保持幺两，背台六海里报告，拐洞Uniform拐", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "报告", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "保持幺两，背台六海里报告，拐洞Uniform拐", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持幺两，背台六海里报告，拐洞Uniform拐", "result_list": [{"text": "背台六海里", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "保持幺两，背台六海里报告，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 13, "end": 23}], "prompt": "呼号"}
+{"content": "沿背台边下一千，幺洞海里报告，拐洞Uniform拐", "result_list": [{"text": "沿背台边", "start": 0, "end": 4}, {"text": "幺洞海里", "start": 8, "end": 12}], "prompt": "前提条件"}
+{"content": "沿背台边下一千，幺洞海里报告，拐洞Uniform拐", "result_list": [{"text": "下", "start": 4, "end": 5}, {"text": "报告", "start": 12, "end": 14}], "prompt": "动作"}
+{"content": "沿背台边下一千，幺洞海里报告，拐洞Uniform拐", "result_list": [{"text": "一千", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "沿背台边下一千，幺洞海里报告，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 15, "end": 25}], "prompt": "呼号"}
+{"content": "三六洞九，加一边保持幺八", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，加一边保持幺八", "result_list": [{"text": "加", "start": 5, "end": 6}, {"text": "保持", "start": 8, "end": 10}], "prompt": "动作"}
+{"content": "三六洞九，加一边保持幺八", "result_list": [{"text": "一边", "start": 6, "end": 8}, {"text": "幺八", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "三六洞九，幺八上空等待，退出等待报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，幺八上空等待，退出等待报告", "result_list": [{"text": "幺八", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "三六洞九，幺八上空等待，退出等待报告", "result_list": [{"text": "上空", "start": 7, "end": 9}, {"text": "退出等待", "start": 12, "end": 16}], "prompt": "前提条件"}
+{"content": "三六洞九，幺八上空等待，退出等待报告", "result_list": [{"text": "等待", "start": 9, "end": 11}, {"text": "报告", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，右转幺两，过台报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，右转幺两，过台报告", "result_list": [{"text": "右转", "start": 11, "end": 13}, {"text": "报告", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，右转幺两，过台报告", "result_list": [{"text": "幺两", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，右转幺两，过台报告", "result_list": [{"text": "过台", "start": 16, "end": 18}], "prompt": "前提条件"}
+{"content": "右转幺两过台报，拐洞Juliett幺", "result_list": [{"text": "右转", "start": 0, "end": 2}, {"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "右转幺两过台报，拐洞Juliett幺", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "右转幺两过台报，拐洞Juliett幺", "result_list": [{"text": "过台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "右转幺两过台报，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 8, "end": 18}], "prompt": "呼号"}
+{"content": "联系塔台再见，三六洞九", "result_list": [{"text": "联系", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "联系塔台再见，三六洞九", "result_list": [{"text": "塔台", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "联系塔台再见，三六洞九", "result_list": [{"text": "三六洞九", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，可以转了，八百五边航道报告，准备长五边", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，可以转了，八百五边航道报告，准备长五边", "result_list": [{"text": "转", "start": 13, "end": 14}, {"text": "报告", "start": 22, "end": 24}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，可以转了，八百五边航道报告，准备长五边", "result_list": [{"text": "八百", "start": 16, "end": 18}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，可以转了，八百五边航道报告，准备长五边", "result_list": [{"text": "五边航道", "start": 18, "end": 22}], "prompt": "前提条件"}
+{"content": "拐洞Juliett幺，下一千八海里报告", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，下一千八海里报告", "result_list": [{"text": "下", "start": 11, "end": 12}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，下一千八海里报告", "result_list": [{"text": "一千", "start": 12, "end": 14}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，下一千八海里报告", "result_list": [{"text": "八海里", "start": 14, "end": 17}], "prompt": "前提条件"}
+{"content": "幺八上空等待，退出等待报，三六洞九", "result_list": [{"text": "幺八", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "幺八上空等待，退出等待报，三六洞九", "result_list": [{"text": "上空", "start": 2, "end": 4}, {"text": "退出等待", "start": 7, "end": 11}], "prompt": "前提条件"}
+{"content": "幺八上空等待，退出等待报，三六洞九", "result_list": [{"text": "等待", "start": 4, "end": 6}, {"text": "报", "start": 11, "end": 12}], "prompt": "动作"}
+{"content": "幺八上空等待，退出等待报，三六洞九", "result_list": [{"text": "三六洞九", "start": 13, "end": 17}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，八百四点八海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，八百四点八海里报告", "result_list": [{"text": "八百", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，八百四点八海里报告", "result_list": [{"text": "四点八海里", "start": 13, "end": 18}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，八百四点八海里报告", "result_list": [{"text": "报告", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "额程序转弯，八百向台报，拐九三拐", "result_list": [{"text": "程序转弯", "start": 1, "end": 5}, {"text": "报", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "额程序转弯，八百向台报，拐九三拐", "result_list": [{"text": "八百", "start": 6, "end": 8}], "prompt": "动作值"}
+{"content": "额程序转弯，八百向台报，拐九三拐", "result_list": [{"text": "向台", "start": 8, "end": 10}], "prompt": "前提条件"}
+{"content": "额程序转弯，八百向台报，拐九三拐", "result_list": [{"text": "拐九三拐", "start": 12, "end": 16}], "prompt": "呼号"}
+{"content": "右转幺两远台报，九两八两", "result_list": [{"text": "右转", "start": 0, "end": 2}, {"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "右转幺两远台报，九两八两", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "右转幺两远台报，九两八两", "result_list": [{"text": "远台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "右转幺两远台报，九两八两", "result_list": [{"text": "九两八两", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "沿一边下幺两，三六洞九", "result_list": [{"text": "沿一边", "start": 0, "end": 3}], "prompt": "前提条件"}
+{"content": "沿一边下幺两，三六洞九", "result_list": [{"text": "下", "start": 3, "end": 4}], "prompt": "动作"}
+{"content": "沿一边下幺两，三六洞九", "result_list": [{"text": "幺两", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "沿一边下幺两，三六洞九", "result_list": [{"text": "三六洞九", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "背台五海里报，拐洞Juliett幺", "result_list": [{"text": "背台五海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "背台五海里报，拐洞Juliett幺", "result_list": [{"text": "报", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "背台五海里报，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 7, "end": 17}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，双流修正海压幺洞两四，联系校部，月花井脱波", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，双流修正海压幺洞两四，联系校部，月花井脱波", "result_list": [{"text": "联系", "start": 23, "end": 25}, {"text": "脱波", "start": 31, "end": 33}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，双流修正海压幺洞两四，联系校部，月花井脱波", "result_list": [{"text": "校部", "start": 25, "end": 27}], "prompt": "动作值"}
+{"content": "幺洞XrayAlpha，双流修正海压幺洞两四，联系校部，月花井脱波", "result_list": [{"text": "月花井", "start": 28, "end": 31}], "prompt": "前提条件"}
+{"content": "九两八两，你现在可以上幺两，过远台报告", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，你现在可以上幺两，过远台报告", "result_list": [{"text": "现在", "start": 6, "end": 8}, {"text": "过远台", "start": 14, "end": 17}], "prompt": "前提条件"}
+{"content": "九两八两，你现在可以上幺两，过远台报告", "result_list": [{"text": "上", "start": 10, "end": 11}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "九两八两，你现在可以上幺两，过远台报告", "result_list": [{"text": "幺两", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "三六八幺，八百五边航道报告", "result_list": [{"text": "三六八幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六八幺，八百五边航道报告", "result_list": [{"text": "八百", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "三六八幺，八百五边航道报告", "result_list": [{"text": "五边航道", "start": 7, "end": 11}], "prompt": "前提条件"}
+{"content": "三六八幺，八百五边航道报告", "result_list": [{"text": "报告", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "飞灵泉寺下九百，拐洞Uniform六", "result_list": [{"text": "飞", "start": 0, "end": 1}, {"text": "下", "start": 4, "end": 5}], "prompt": "动作"}
+{"content": "飞灵泉寺下九百，拐洞Uniform六", "result_list": [{"text": "灵泉寺", "start": 1, "end": 4}, {"text": "九百", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "飞灵泉寺下九百，拐洞Uniform六", "result_list": [{"text": "拐洞Uniform六", "start": 8, "end": 18}], "prompt": "呼号"}
+{"content": "保持幺五过台右转一边，拐洞Juliett幺", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "右转", "start": 6, "end": 8}], "prompt": "动作"}
+{"content": "保持幺五过台右转一边，拐洞Juliett幺", "result_list": [{"text": "幺五", "start": 2, "end": 4}, {"text": "一边", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "保持幺五过台右转一边，拐洞Juliett幺", "result_list": [{"text": "过台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "保持幺五过台右转一边，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 11, "end": 21}], "prompt": "呼号"}
+{"content": "下八百，五边航道报，一会儿方便的话申请个长五边", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "下八百，五边航道报，一会儿方便的话申请个长五边", "result_list": [{"text": "八百", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下八百，五边航道报，一会儿方便的话申请个长五边", "result_list": [{"text": "五边航道", "start": 4, "end": 8}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，你到临时洞拐报告，听指挥再下", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，你到临时洞拐报告，听指挥再下", "result_list": [{"text": "到临时洞拐", "start": 9, "end": 14}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，你到临时洞拐报告，听指挥再下", "result_list": [{"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，一边七百保持", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，一边七百保持", "result_list": [{"text": "一边", "start": 12, "end": 14}], "prompt": "前提条件"}
+{"content": "幺洞XrayAlpha，一边七百保持", "result_list": [{"text": "七百", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "幺洞XrayAlpha，一边七百保持", "result_list": [{"text": "保持", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "九百飞上空，联系塔台再", "result_list": [{"text": "九百", "start": 0, "end": 2}, {"text": "上空", "start": 3, "end": 5}, {"text": "塔台", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "九百飞上空，联系塔台再", "result_list": [{"text": "飞", "start": 2, "end": 3}, {"text": "联系", "start": 6, "end": 8}], "prompt": "动作"}
+{"content": "九两八两，十秒后转，八百向台报告", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，十秒后转，八百向台报告", "result_list": [{"text": "十秒后", "start": 5, "end": 8}, {"text": "向台", "start": 12, "end": 14}], "prompt": "前提条件"}
+{"content": "九两八两，十秒后转，八百向台报告", "result_list": [{"text": "转", "start": 8, "end": 9}, {"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "九两八两，十秒后转，八百向台报告", "result_list": [{"text": "八百", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "下一千，背台拐海里报，三六洞九", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报", "start": 9, "end": 10}], "prompt": "动作"}
+{"content": "下一千，背台拐海里报，三六洞九", "result_list": [{"text": "一千", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下一千，背台拐海里报，三六洞九", "result_list": [{"text": "背台拐海里", "start": 4, "end": 9}], "prompt": "前提条件"}
+{"content": "下一千，背台拐海里报，三六洞九", "result_list": [{"text": "三六洞九", "start": 11, "end": 15}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，保持幺五飞VOR台，五海里报告", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，保持幺五飞VOR台，五海里报告", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "飞", "start": 15, "end": 16}, {"text": "报告", "start": 24, "end": 26}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，保持幺五飞VOR台，五海里报告", "result_list": [{"text": "幺五", "start": 13, "end": 15}, {"text": "VOR台", "start": 16, "end": 20}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，保持幺五飞VOR台，五海里报告", "result_list": [{"text": "五海里", "start": 21, "end": 24}], "prompt": "前提条件"}
+{"content": "Kilo六，现在可以下九百，保升镇报告", "result_list": [{"text": "Kilo六", "start": 0, "end": 5}], "prompt": "呼号"}
+{"content": "Kilo六，现在可以下九百，保升镇报告", "result_list": [{"text": "现在", "start": 6, "end": 8}, {"text": "保升镇", "start": 14, "end": 17}], "prompt": "前提条件"}
+{"content": "Kilo六，现在可以下九百，保升镇报告", "result_list": [{"text": "下", "start": 10, "end": 11}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "Kilo六，现在可以下九百，保升镇报告", "result_list": [{"text": "九百", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "九八洞幺，背台五海里报告", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，背台五海里报告", "result_list": [{"text": "背台五海里", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "九八洞幺，背台五海里报告", "result_list": [{"text": "报告", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "额左转飞航向洞三五，上幺五，幺洞XrayAlpha", "result_list": [{"text": "左转飞", "start": 1, "end": 4}, {"text": "上", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "额左转飞航向洞三五，上幺五，幺洞XrayAlpha", "result_list": [{"text": "航向洞三五", "start": 4, "end": 9}, {"text": "幺五", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "额左转飞航向洞三五，上幺五，幺洞XrayAlpha", "result_list": [{"text": "幺洞XrayAlpha", "start": 14, "end": 25}], "prompt": "呼号"}
+{"content": "背台边下一千，幺洞海里报，拐九三拐", "result_list": [{"text": "背台边", "start": 0, "end": 3}, {"text": "幺洞海里", "start": 7, "end": 11}], "prompt": "前提条件"}
+{"content": "背台边下一千，幺洞海里报，拐九三拐", "result_list": [{"text": "下", "start": 3, "end": 4}, {"text": "报", "start": 11, "end": 12}], "prompt": "动作"}
+{"content": "背台边下一千，幺洞海里报，拐九三拐", "result_list": [{"text": "一千", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "背台边下一千，幺洞海里报，拐九三拐", "result_list": [{"text": "拐九三拐", "start": 13, "end": 17}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，下一千，九海里报告", "result_list": [{"text": "拐洞Lima幺", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，下一千，九海里报告", "result_list": [{"text": "下", "start": 8, "end": 9}, {"text": "报告", "start": 15, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Lima幺，下一千，九海里报告", "result_list": [{"text": "一千", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "拐洞Lima幺，下一千，九海里报告", "result_list": [{"text": "九海里", "start": 12, "end": 15}], "prompt": "前提条件"}
+{"content": "保持九百灵泉寺左转盘一圈，拐洞Uniform六", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "左转盘", "start": 7, "end": 10}], "prompt": "动作"}
+{"content": "保持九百灵泉寺左转盘一圈，拐洞Uniform六", "result_list": [{"text": "九百", "start": 2, "end": 4}, {"text": "一圈", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "保持九百灵泉寺左转盘一圈，拐洞Uniform六", "result_list": [{"text": "灵泉寺", "start": 4, "end": 7}], "prompt": "前提条件"}
+{"content": "保持九百灵泉寺左转盘一圈，拐洞Uniform六", "result_list": [{"text": "拐洞Uniform六", "start": 13, "end": 23}], "prompt": "呼号"}
+{"content": "幺五VOR台，幺洞海里报，三六洞九", "result_list": [{"text": "幺五", "start": 0, "end": 2}, {"text": "VOR台", "start": 2, "end": 6}], "prompt": "动作值"}
+{"content": "幺五VOR台，幺洞海里报，三六洞九", "result_list": [{"text": "幺洞海里", "start": 7, "end": 11}], "prompt": "前提条件"}
+{"content": "幺五VOR台，幺洞海里报，三六洞九", "result_list": [{"text": "报", "start": 11, "end": 12}], "prompt": "动作"}
+{"content": "幺五VOR台，幺洞海里报，三六洞九", "result_list": [{"text": "三六洞九", "start": 13, "end": 17}], "prompt": "呼号"}
+{"content": "下一千，八海里报，拐洞Uniform拐", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报", "start": 7, "end": 8}], "prompt": "动作"}
+{"content": "下一千，八海里报，拐洞Uniform拐", "result_list": [{"text": "一千", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下一千，八海里报，拐洞Uniform拐", "result_list": [{"text": "八海里", "start": 4, "end": 7}], "prompt": "前提条件"}
+{"content": "下一千，八海里报，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 9, "end": 19}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，保持两幺飞临时洞拐", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，保持两幺飞临时洞拐", "result_list": [{"text": "保持", "start": 8, "end": 10}, {"text": "飞", "start": 12, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Kilo八，保持两幺飞临时洞拐", "result_list": [{"text": "两幺", "start": 10, "end": 12}, {"text": "临时洞拐", "start": 13, "end": 17}], "prompt": "动作值"}
+{"content": "八百向台报告，九八洞幺", "result_list": [{"text": "八百", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "八百向台报告，九八洞幺", "result_list": [{"text": "向台", "start": 2, "end": 4}], "prompt": "前提条件"}
+{"content": "八百向台报告，九八洞幺", "result_list": [{"text": "报告", "start": 4, "end": 6}], "prompt": "动作"}
+{"content": "八百向台报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "三六洞九，可以转，八百向台报告，要不要长五边", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，可以转，八百向台报告，要不要长五边", "result_list": [{"text": "转", "start": 7, "end": 8}, {"text": "报告", "start": 13, "end": 15}], "prompt": "动作"}
+{"content": "三六洞九，可以转，八百向台报告，要不要长五边", "result_list": [{"text": "八百", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "三六洞九，可以转，八百向台报告，要不要长五边", "result_list": [{"text": "向台", "start": 11, "end": 13}], "prompt": "前提条件"}
+{"content": "八百四点八报，拐洞Uniform拐", "result_list": [{"text": "八百", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "八百四点八报，拐洞Uniform拐", "result_list": [{"text": "四点八", "start": 2, "end": 5}], "prompt": "前提条件"}
+{"content": "八百四点八报，拐洞Uniform拐", "result_list": [{"text": "报", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "八百四点八报，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 7, "end": 17}], "prompt": "呼号"}
+{"content": "好的，幺两VOR台，拐洞Lima幺", "result_list": [{"text": "幺两", "start": 3, "end": 5}, {"text": "VOR台", "start": 5, "end": 9}], "prompt": "动作值"}
+{"content": "好的，幺两VOR台，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 10, "end": 17}], "prompt": "呼号"}
+{"content": "拐九三拐，右转保持幺五过台报告", "result_list": [{"text": "拐九三拐", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "拐九三拐，右转保持幺五过台报告", "result_list": [{"text": "右转", "start": 5, "end": 7}, {"text": "保持", "start": 7, "end": 9}, {"text": "报告", "start": 13, "end": 15}], "prompt": "动作"}
+{"content": "拐九三拐，右转保持幺五过台报告", "result_list": [{"text": "幺五", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "拐九三拐，右转保持幺五过台报告", "result_list": [{"text": "过台", "start": 11, "end": 13}], "prompt": "前提条件"}
+{"content": "联系塔台再见，拐洞Juliett幺", "result_list": [{"text": "联系", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "联系塔台再见，拐洞Juliett幺", "result_list": [{"text": "塔台", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "联系塔台再见，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 7, "end": 17}], "prompt": "呼号"}
+{"content": "额你，背台五海里报，拐洞Lima幺", "result_list": [{"text": "背台五海里", "start": 3, "end": 8}], "prompt": "前提条件"}
+{"content": "额你，背台五海里报，拐洞Lima幺", "result_list": [{"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "额你，背台五海里报，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 10, "end": 17}], "prompt": "呼号"}
+{"content": "九八洞幺，上九百上空", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，上九百上空", "result_list": [{"text": "上", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "九八洞幺，上九百上空", "result_list": [{"text": "九百", "start": 6, "end": 8}, {"text": "上空", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "保持九百飞上空，联系塔台再见，拐洞Uni", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "飞", "start": 4, "end": 5}, {"text": "联系", "start": 8, "end": 10}], "prompt": "动作"}
+{"content": "保持九百飞上空，联系塔台再见，拐洞Uni", "result_list": [{"text": "九百", "start": 2, "end": 4}, {"text": "上空", "start": 5, "end": 7}, {"text": "塔台", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "保持九百飞上空，联系塔台再见，拐洞Uni", "result_list": [{"text": "拐洞Uni", "start": 15, "end": 20}], "prompt": "呼号"}
+{"content": "额下八百向台报，拐洞Lima幺", "result_list": [{"text": "下", "start": 1, "end": 2}, {"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "额下八百向台报，拐洞Lima幺", "result_list": [{"text": "八百", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "额下八百向台报，拐洞Lima幺", "result_list": [{"text": "向台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "额下八百向台报，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 8, "end": 15}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，飞航向两幺五", "result_list": [{"text": "拐洞Lima幺", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima幺，飞航向两幺五", "result_list": [{"text": "飞航向", "start": 8, "end": 11}], "prompt": "动作"}
+{"content": "拐洞Lima幺，飞航向两幺五", "result_list": [{"text": "两幺五", "start": 11, "end": 14}], "prompt": "动作值"}
+{"content": "九百保升镇，拐洞Kilo六", "result_list": [{"text": "九百", "start": 0, "end": 2}, {"text": "保升镇", "start": 2, "end": 5}], "prompt": "动作值"}
+{"content": "九百保升镇，拐洞Kilo六", "result_list": [{"text": "拐洞Kilo六", "start": 6, "end": 13}], "prompt": "呼号"}
+{"content": "注意航迹，八百四点八海里报告，九八洞幺", "result_list": [{"text": "八百", "start": 5, "end": 7}], "prompt": "动作值"}
+{"content": "注意航迹，八百四点八海里报告，九八洞幺", "result_list": [{"text": "四点八海里", "start": 7, "end": 12}], "prompt": "前提条件"}
+{"content": "注意航迹，八百四点八海里报告，九八洞幺", "result_list": [{"text": "报告", "start": 12, "end": 14}], "prompt": "动作"}
+{"content": "注意航迹，八百四点八海里报告，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 15, "end": 19}], "prompt": "呼号"}
+{"content": "临时洞四有人了，你当前航向上幺两报告", "result_list": [{"text": "当前航向", "start": 9, "end": 13}], "prompt": "前提条件"}
+{"content": "临时洞四有人了，你当前航向上幺两报告", "result_list": [{"text": "上", "start": 13, "end": 14}, {"text": "报告", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "临时洞四有人了，你当前航向上幺两报告", "result_list": [{"text": "幺两", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "右转幺两，过台报告，证实一下需要上高度吗", "result_list": [{"text": "右转", "start": 0, "end": 2}, {"text": "报告", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "右转幺两，过台报告，证实一下需要上高度吗", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "右转幺两，过台报告，证实一下需要上高度吗", "result_list": [{"text": "过台", "start": 5, "end": 7}], "prompt": "前提条件"}
+{"content": "拐洞Kilo拐，八百五边航道报告", "result_list": [{"text": "拐洞Kilo拐", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，八百五边航道报告", "result_list": [{"text": "八百", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "拐洞Kilo拐，八百五边航道报告", "result_list": [{"text": "五边航道", "start": 10, "end": 14}], "prompt": "前提条件"}
+{"content": "拐洞Kilo拐，八百五边航道报告", "result_list": [{"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "背台五海里报告", "result_list": [{"text": "背台五海里", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "背台五海里报告", "result_list": [{"text": "报告", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "九两八两，收到了，那保持九百飞VOR台", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，收到了，那保持九百飞VOR台", "result_list": [{"text": "保持", "start": 10, "end": 12}, {"text": "飞", "start": 14, "end": 15}], "prompt": "动作"}
+{"content": "九两八两，收到了，那保持九百飞VOR台", "result_list": [{"text": "九百", "start": 12, "end": 14}, {"text": "VOR台", "start": 15, "end": 19}], "prompt": "动作值"}
+{"content": "三六八幺，联系塔台再见", "result_list": [{"text": "三六八幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六八幺，联系塔台再见", "result_list": [{"text": "联系", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "三六八幺，联系塔台再见", "result_list": [{"text": "塔台", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "联系", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，联系塔台再见", "result_list": [{"text": "塔台", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "那拐洞Lima幺，直接左转飞VOR台", "result_list": [{"text": "拐洞Lima幺", "start": 1, "end": 8}], "prompt": "呼号"}
+{"content": "那拐洞Lima幺，直接左转飞VOR台", "result_list": [{"text": "左转飞", "start": 11, "end": 14}], "prompt": "动作"}
+{"content": "那拐洞Lima幺，直接左转飞VOR台", "result_list": [{"text": "VOR台", "start": 14, "end": 18}], "prompt": "动作值"}
+{"content": "叉西子脱波报，拐洞Kilo八", "result_list": [{"text": "叉西子脱波", "start": 0, "end": 5}], "prompt": "前提条件"}
+{"content": "叉西子脱波报，拐洞Kilo八", "result_list": [{"text": "报", "start": 5, "end": 6}], "prompt": "动作"}
+{"content": "叉西子脱波报，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 7, "end": 14}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，右转幺两过台报告", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，右转幺两过台报告", "result_list": [{"text": "右转", "start": 11, "end": 13}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，右转幺两过台报告", "result_list": [{"text": "幺两", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，右转幺两过台报告", "result_list": [{"text": "过台", "start": 15, "end": 17}], "prompt": "前提条件"}
+{"content": "拐洞Kilo拐，沿弧下一千", "result_list": [{"text": "拐洞Kilo拐", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，沿弧下一千", "result_list": [{"text": "沿弧", "start": 8, "end": 10}], "prompt": "前提条件"}
+{"content": "拐洞Kilo拐，沿弧下一千", "result_list": [{"text": "下", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "拐洞Kilo拐，沿弧下一千", "result_list": [{"text": "一千", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "连续右转加一边，保持幺五，拐洞Juliett幺", "result_list": [{"text": "连续右转加", "start": 0, "end": 5}, {"text": "保持", "start": 8, "end": 10}], "prompt": "动作"}
+{"content": "连续右转加一边，保持幺五，拐洞Juliett幺", "result_list": [{"text": "一边", "start": 5, "end": 7}, {"text": "幺五", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "连续右转加一边，保持幺五，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 13, "end": 23}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，联系塔台再见", "result_list": [{"text": "拐洞Kilo拐", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，联系塔台再见", "result_list": [{"text": "联系", "start": 8, "end": 10}], "prompt": "动作"}
+{"content": "拐洞Kilo拐，联系塔台再见", "result_list": [{"text": "塔台", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "拐洞Uniform拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "拐洞Uniform拐", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "沿背台边", "start": 11, "end": 15}, {"text": "幺洞海里", "start": 19, "end": 23}], "prompt": "前提条件"}
+{"content": "拐洞Uniform拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "下", "start": 15, "end": 16}, {"text": "报告", "start": 23, "end": 25}], "prompt": "动作"}
+{"content": "拐洞Uniform拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "一千", "start": 16, "end": 18}], "prompt": "动作值"}
+{"content": "三六八幺，丰乡沟脱波报告", "result_list": [{"text": "三六八幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六八幺，丰乡沟脱波报告", "result_list": [{"text": "丰乡沟脱波", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "三六八幺，丰乡沟脱波报告", "result_list": [{"text": "报告", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "三六洞九，保持八百四点八海里报告", "result_list": [{"text": "三六洞九", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "三六洞九，保持八百四点八海里报告", "result_list": [{"text": "保持", "start": 5, "end": 7}, {"text": "报告", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "三六洞九，保持八百四点八海里报告", "result_list": [{"text": "八百", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "三六洞九，保持八百四点八海里报告", "result_list": [{"text": "四点八海里", "start": 9, "end": 14}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，空域可以下幺两活动", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，空域可以下幺两活动", "result_list": [{"text": "空域", "start": 8, "end": 10}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，空域可以下幺两活动", "result_list": [{"text": "下", "start": 12, "end": 13}, {"text": "活动", "start": 15, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Kilo八，空域可以下幺两活动", "result_list": [{"text": "幺两", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "你在临时洞拐下到幺八活动吧", "result_list": [{"text": "在临时洞拐", "start": 1, "end": 6}], "prompt": "前提条件"}
+{"content": "你在临时洞拐下到幺八活动吧", "result_list": [{"text": "下到", "start": 6, "end": 8}, {"text": "活动", "start": 10, "end": 12}], "prompt": "动作"}
+{"content": "你在临时洞拐下到幺八活动吧", "result_list": [{"text": "幺八", "start": 8, "end": 10}], "prompt": "动作值"}
+{"content": "九八洞幺，保持九百一边", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，保持九百一边", "result_list": [{"text": "保持", "start": 5, "end": 7}], "prompt": "动作"}
+{"content": "九八洞幺，保持九百一边", "result_list": [{"text": "九百", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "九八洞幺，保持九百一边", "result_list": [{"text": "一边", "start": 9, "end": 11}], "prompt": "前提条件"}
+{"content": "拐洞Juliett幺，上幺五，六海里飞向临时洞六", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，上幺五，六海里飞向临时洞六", "result_list": [{"text": "上", "start": 11, "end": 12}, {"text": "飞向", "start": 18, "end": 20}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，上幺五，六海里飞向临时洞六", "result_list": [{"text": "幺五", "start": 12, "end": 14}, {"text": "临时洞六", "start": 20, "end": 24}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，上幺五，六海里飞向临时洞六", "result_list": [{"text": "六海里", "start": 15, "end": 18}], "prompt": "前提条件"}
+{"content": "拐洞Uniform六，保持九百灵泉寺左转盘一圈", "result_list": [{"text": "拐洞Uniform六", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform六，保持九百灵泉寺左转盘一圈", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "左转盘", "start": 18, "end": 21}], "prompt": "动作"}
+{"content": "拐洞Uniform六，保持九百灵泉寺左转盘一圈", "result_list": [{"text": "九百", "start": 13, "end": 15}, {"text": "一圈", "start": 21, "end": 23}], "prompt": "动作值"}
+{"content": "拐洞Uniform六，保持九百灵泉寺左转盘一圈", "result_list": [{"text": "灵泉寺", "start": 15, "end": 18}], "prompt": "前提条件"}
+{"content": "拐九三拐，下七百飞上空，联系塔台再见", "result_list": [{"text": "拐九三拐", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "拐九三拐，下七百飞上空，联系塔台再见", "result_list": [{"text": "下", "start": 5, "end": 6}, {"text": "飞", "start": 8, "end": 9}, {"text": "联系", "start": 12, "end": 14}], "prompt": "动作"}
+{"content": "拐九三拐，下七百飞上空，联系塔台再见", "result_list": [{"text": "七百", "start": 6, "end": 8}, {"text": "上空", "start": 9, "end": 11}, {"text": "塔台", "start": 14, "end": 16}], "prompt": "动作值"}
+{"content": "拐洞Kilo八，保持九百飞上空，联系塔台再见", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，保持九百飞上空，联系塔台再见", "result_list": [{"text": "保持", "start": 8, "end": 10}, {"text": "飞", "start": 12, "end": 13}, {"text": "联系", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "拐洞Kilo八，保持九百飞上空，联系塔台再见", "result_list": [{"text": "九百", "start": 10, "end": 12}, {"text": "上空", "start": 13, "end": 15}, {"text": "塔台", "start": 18, "end": 20}], "prompt": "动作值"}
+{"content": "八百五边航道报，三六八幺", "result_list": [{"text": "八百", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "八百五边航道报，三六八幺", "result_list": [{"text": "五边航道", "start": 2, "end": 6}], "prompt": "前提条件"}
+{"content": "八百五边航道报，三六八幺", "result_list": [{"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "八百五边航道报，三六八幺", "result_list": [{"text": "三六八幺", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，连续地右转加一边，保持幺五", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，连续地右转加一边，保持幺五", "result_list": [{"text": "连续地右转加", "start": 11, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，连续地右转加一边，保持幺五", "result_list": [{"text": "一边", "start": 17, "end": 19}, {"text": "保持", "start": 20, "end": 22}, {"text": "幺五", "start": 22, "end": 24}], "prompt": "动作值"}
+{"content": "幺洞XrayAlpha，下八百向台报告", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，下八百向台报告", "result_list": [{"text": "下", "start": 12, "end": 13}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，下八百向台报告", "result_list": [{"text": "八百", "start": 13, "end": 15}], "prompt": "动作值"}
+{"content": "幺洞XrayAlpha，下八百向台报告", "result_list": [{"text": "向台", "start": 15, "end": 17}], "prompt": "前提条件"}
+{"content": "额背台五海里报，九两八两", "result_list": [{"text": "背台五海里", "start": 1, "end": 6}], "prompt": "前提条件"}
+{"content": "额背台五海里报，九两八两", "result_list": [{"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "额背台五海里报，九两八两", "result_list": [{"text": "九两八两", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "航向两幺五，上幺两，九两八两", "result_list": [{"text": "航向两幺五", "start": 0, "end": 5}, {"text": "幺两", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "航向两幺五，上幺两，九两八两", "result_list": [{"text": "上", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "航向两幺五，上幺两，九两八两", "result_list": [{"text": "九两八两", "start": 10, "end": 14}], "prompt": "呼号"}
+{"content": "两幺，两幺五航向，拐洞Lima幺", "result_list": [{"text": "两幺", "start": 0, "end": 2}, {"text": "两幺五航向", "start": 3, "end": 8}], "prompt": "动作值"}
+{"content": "两幺，两幺五航向，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 9, "end": 16}], "prompt": "呼号"}
+{"content": "保持幺五飞保升镇，拐洞Kilo六", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "飞", "start": 4, "end": 5}], "prompt": "动作"}
+{"content": "保持幺五飞保升镇，拐洞Kilo六", "result_list": [{"text": "幺五", "start": 2, "end": 4}, {"text": "保升镇", "start": 5, "end": 8}], "prompt": "动作值"}
+{"content": "保持幺五飞保升镇，拐洞Kilo六", "result_list": [{"text": "拐洞Kilo六", "start": 9, "end": 16}], "prompt": "呼号"}
+{"content": "右转下幺两过台报，三六洞九", "result_list": [{"text": "右转下", "start": 0, "end": 3}, {"text": "报", "start": 7, "end": 8}], "prompt": "动作"}
+{"content": "右转下幺两过台报，三六洞九", "result_list": [{"text": "幺两", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "右转下幺两过台报，三六洞九", "result_list": [{"text": "过台", "start": 5, "end": 7}], "prompt": "前提条件"}
+{"content": "右转下幺两过台报，三六洞九", "result_list": [{"text": "三六洞九", "start": 9, "end": 13}], "prompt": "呼号"}
+{"content": "拐九三拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "拐九三拐", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "拐九三拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "沿背台边", "start": 5, "end": 9}, {"text": "幺洞海里", "start": 13, "end": 17}], "prompt": "前提条件"}
+{"content": "拐九三拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "下", "start": 9, "end": 10}, {"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "拐九三拐，沿背台边下一千，幺洞海里报告", "result_list": [{"text": "一千", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "拐洞Kilo八，叉西子报告", "result_list": [{"text": "拐洞Kilo八", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo八，叉西子报告", "result_list": [{"text": "叉西子", "start": 8, "end": 11}], "prompt": "前提条件"}
+{"content": "拐洞Kilo八，叉西子报告", "result_list": [{"text": "报告", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "大速度，拐洞Kilo", "result_list": [{"text": "大速度", "start": 0, "end": 3}], "prompt": "动作"}
+{"content": "大速度，拐洞Kilo", "result_list": [{"text": "拐洞Kilo", "start": 4, "end": 10}], "prompt": "呼号"}
+{"content": "啊幺洞两四，脱波报，幺洞XrayPapa", "result_list": [{"text": "脱波", "start": 6, "end": 8}], "prompt": "前提条件"}
+{"content": "啊幺洞两四，脱波报，幺洞XrayPapa", "result_list": [{"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "啊幺洞两四，脱波报，幺洞XrayPapa", "result_list": [{"text": "幺洞XrayPapa", "start": 10, "end": 20}], "prompt": "呼号"}
+{"content": "上九百上空，九八洞幺", "result_list": [{"text": "上", "start": 0, "end": 1}], "prompt": "动作"}
+{"content": "上九百上空，九八洞幺", "result_list": [{"text": "九百", "start": 1, "end": 3}, {"text": "上空", "start": 3, "end": 5}], "prompt": "动作值"}
+{"content": "上九百上空，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 6, "end": 10}], "prompt": "呼号"}
+{"content": "联系塔台再见，拐洞Uniform拐", "result_list": [{"text": "联系", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "联系塔台再见，拐洞Uniform拐", "result_list": [{"text": "塔台", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "联系塔台再见，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 7, "end": 17}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，保持幺五过台右转一边", "result_list": [{"text": "拐洞Juliett幺", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Juliett幺，保持幺五过台右转一边", "result_list": [{"text": "保持", "start": 11, "end": 13}, {"text": "右转", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "拐洞Juliett幺，保持幺五过台右转一边", "result_list": [{"text": "幺五", "start": 13, "end": 15}, {"text": "一边", "start": 19, "end": 21}], "prompt": "动作值"}
+{"content": "拐洞Juliett幺，保持幺五过台右转一边", "result_list": [{"text": "过台", "start": 15, "end": 17}], "prompt": "前提条件"}
+{"content": "下幺两幺三海里报告，当前航向", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "报告", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "下幺两幺三海里报告，当前航向", "result_list": [{"text": "幺两", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "下幺两幺三海里报告，当前航向", "result_list": [{"text": "幺三海里", "start": 3, "end": 7}, {"text": "当前航向", "start": 10, "end": 14}], "prompt": "前提条件"}
+{"content": "幺两幺三海里报，三六八幺", "result_list": [{"text": "幺两", "start": 0, "end": 2}], "prompt": "动作值"}
+{"content": "幺两幺三海里报，三六八幺", "result_list": [{"text": "幺三海里", "start": 2, "end": 6}], "prompt": "前提条件"}
+{"content": "幺两幺三海里报，三六八幺", "result_list": [{"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "幺两幺三海里报，三六八幺", "result_list": [{"text": "三六八幺", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "幺洞两四，月花井脱波报", "result_list": [{"text": "月花井脱波", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "幺洞两四，月花井脱波报", "result_list": [{"text": "报", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "下七百飞机场上空，联系塔台再见，九八洞幺", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "飞", "start": 3, "end": 4}, {"text": "联系", "start": 9, "end": 11}], "prompt": "动作"}
+{"content": "下七百飞机场上空，联系塔台再见，九八洞幺", "result_list": [{"text": "七百", "start": 1, "end": 3}, {"text": "机场上空", "start": 4, "end": 8}, {"text": "塔台", "start": 11, "end": 13}], "prompt": "动作值"}
+{"content": "下七百飞机场上空，联系塔台再见，九八洞幺", "result_list": [{"text": "九八洞幺", "start": 16, "end": 20}], "prompt": "呼号"}
+{"content": "下七百飞上空，联系塔台再见，拐九三拐", "result_list": [{"text": "下", "start": 0, "end": 1}, {"text": "飞", "start": 3, "end": 4}, {"text": "联系", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "下七百飞上空，联系塔台再见，拐九三拐", "result_list": [{"text": "七百", "start": 1, "end": 3}, {"text": "上空", "start": 4, "end": 6}, {"text": "塔台", "start": 9, "end": 11}], "prompt": "动作值"}
+{"content": "下七百飞上空，联系塔台再见，拐九三拐", "result_list": [{"text": "拐九三拐", "start": 14, "end": 18}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，一边上九百", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，一边上九百", "result_list": [{"text": "一边", "start": 12, "end": 14}], "prompt": "前提条件"}
+{"content": "幺洞XrayAlpha，一边上九百", "result_list": [{"text": "上", "start": 14, "end": 15}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，一边上九百", "result_list": [{"text": "九百", "start": 15, "end": 17}], "prompt": "动作值"}
+{"content": "额沿弧下一千，拐洞Kilo拐", "result_list": [{"text": "沿弧", "start": 1, "end": 3}], "prompt": "前提条件"}
+{"content": "额沿弧下一千，拐洞Kilo拐", "result_list": [{"text": "下", "start": 3, "end": 4}], "prompt": "动作"}
+{"content": "额沿弧下一千，拐洞Kilo拐", "result_list": [{"text": "一千", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "额沿弧下一千，拐洞Kilo拐", "result_list": [{"text": "拐洞Kilo拐", "start": 7, "end": 14}], "prompt": "呼号"}
+{"content": "九八洞幺，注意航迹，八百四点八海里报告", "result_list": [{"text": "九八洞幺", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九八洞幺，注意航迹，八百四点八海里报告", "result_list": [{"text": "八百", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "九八洞幺，注意航迹，八百四点八海里报告", "result_list": [{"text": "四点八海里", "start": 12, "end": 17}], "prompt": "前提条件"}
+{"content": "九八洞幺，注意航迹，八百四点八海里报告", "result_list": [{"text": "报告", "start": 17, "end": 19}], "prompt": "动作"}
+{"content": "丰，额丰乡沟脱波报，三六八幺", "result_list": [{"text": "丰乡沟脱波", "start": 3, "end": 8}], "prompt": "前提条件"}
+{"content": "丰，额丰乡沟脱波报，三六八幺", "result_list": [{"text": "报", "start": 8, "end": 9}], "prompt": "动作"}
+{"content": "丰，额丰乡沟脱波报，三六八幺", "result_list": [{"text": "三六八幺", "start": 10, "end": 14}], "prompt": "呼号"}
+{"content": "保持幺两，背台八海里报，拐九三拐", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "报", "start": 10, "end": 11}], "prompt": "动作"}
+{"content": "保持幺两，背台八海里报，拐九三拐", "result_list": [{"text": "幺两", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持幺两，背台八海里报，拐九三拐", "result_list": [{"text": "背台八海里", "start": 5, "end": 10}], "prompt": "前提条件"}
+{"content": "保持幺两，背台八海里报，拐九三拐", "result_list": [{"text": "拐九三拐", "start": 12, "end": 16}], "prompt": "呼号"}
+{"content": "拐洞Kilo拐，额，八百五边航道报，拐洞Kilo拐", "result_list": [{"text": "八百", "start": 10, "end": 12}], "prompt": "动作值"}
+{"content": "拐洞Kilo拐，额，八百五边航道报，拐洞Kilo拐", "result_list": [{"text": "五边航道", "start": 12, "end": 16}], "prompt": "前提条件"}
+{"content": "拐洞Kilo拐，额，八百五边航道报，拐洞Kilo拐", "result_list": [{"text": "报", "start": 16, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Kilo拐，额，八百五边航道报，拐洞Kilo拐", "result_list": [{"text": "拐洞Kilo拐", "start": 18, "end": 25}], "prompt": "呼号"}
+{"content": "保持幺五临时洞六活动，拐洞Juliett幺", "result_list": [{"text": "保持", "start": 0, "end": 2}, {"text": "活动", "start": 8, "end": 10}], "prompt": "动作"}
+{"content": "保持幺五临时洞六活动，拐洞Juliett幺", "result_list": [{"text": "幺五", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持幺五临时洞六活动，拐洞Juliett幺", "result_list": [{"text": "临时洞六", "start": 4, "end": 8}], "prompt": "前提条件"}
+{"content": "保持幺五临时洞六活动，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 11, "end": 21}], "prompt": "呼号"}
+{"content": "保持八百四点八，三六洞九", "result_list": [{"text": "保持", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "保持八百四点八，三六洞九", "result_list": [{"text": "八百", "start": 2, "end": 4}], "prompt": "动作值"}
+{"content": "保持八百四点八，三六洞九", "result_list": [{"text": "四点八", "start": 4, "end": 7}], "prompt": "前提条件"}
+{"content": "保持八百四点八，三六洞九", "result_list": [{"text": "三六洞九", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "九两八两，收到了，下高度一千，八点五海里报告", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，收到了，下高度一千，八点五海里报告", "result_list": [{"text": "下高度", "start": 9, "end": 12}, {"text": "报告", "start": 20, "end": 22}], "prompt": "动作"}
+{"content": "九两八两，收到了，下高度一千，八点五海里报告", "result_list": [{"text": "一千", "start": 12, "end": 14}], "prompt": "动作值"}
+{"content": "九两八两，收到了，下高度一千，八点五海里报告", "result_list": [{"text": "八点五海里", "start": 15, "end": 20}], "prompt": "前提条件"}
+{"content": "保持背台边听指挥，拐洞Uniform拐", "result_list": [{"text": "保持", "start": 0, "end": 2}], "prompt": "动作"}
+{"content": "保持背台边听指挥，拐洞Uniform拐", "result_list": [{"text": "背台边", "start": 2, "end": 5}], "prompt": "动作值"}
+{"content": "保持背台边听指挥，拐洞Uniform拐", "result_list": [{"text": "拐洞Uniform拐", "start": 9, "end": 19}], "prompt": "呼号"}
+{"content": "九两八两，右转幺两远台报告", "result_list": [{"text": "九两八两", "start": 0, "end": 4}], "prompt": "呼号"}
+{"content": "九两八两，右转幺两远台报告", "result_list": [{"text": "右转", "start": 5, "end": 7}, {"text": "报告", "start": 11, "end": 13}], "prompt": "动作"}
+{"content": "九两八两，右转幺两远台报告", "result_list": [{"text": "幺两", "start": 7, "end": 9}], "prompt": "动作值"}
+{"content": "九两八两，右转幺两远台报告", "result_list": [{"text": "远台", "start": 9, "end": 11}], "prompt": "前提条件"}
+{"content": "幺洞XrayAlpha，你左转航向洞三五，上幺五", "result_list": [{"text": "幺洞XrayAlpha", "start": 0, "end": 11}], "prompt": "呼号"}
+{"content": "幺洞XrayAlpha，你左转航向洞三五，上幺五", "result_list": [{"text": "左转航向", "start": 13, "end": 17}, {"text": "上", "start": 21, "end": 22}], "prompt": "动作"}
+{"content": "幺洞XrayAlpha，你左转航向洞三五，上幺五", "result_list": [{"text": "洞三五", "start": 17, "end": 20}, {"text": "幺五", "start": 22, "end": 24}], "prompt": "动作值"}
+{"content": "上九百报，拐洞Uniform", "result_list": [{"text": "上", "start": 0, "end": 1}, {"text": "报", "start": 3, "end": 4}], "prompt": "动作"}
+{"content": "上九百报，拐洞Uniform", "result_list": [{"text": "九百", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "上九百报，拐洞Uniform", "result_list": [{"text": "拐洞Uniform", "start": 5, "end": 14}], "prompt": "呼号"}
+{"content": "拐洞Lima洞，保持九百飞上空，联系塔台再见", "result_list": [{"text": "拐洞Lima洞", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Lima洞，保持九百飞上空，联系塔台再见", "result_list": [{"text": "保持", "start": 8, "end": 10}, {"text": "飞", "start": 12, "end": 13}, {"text": "联系", "start": 16, "end": 18}], "prompt": "动作"}
+{"content": "拐洞Lima洞，保持九百飞上空，联系塔台再见", "result_list": [{"text": "九百", "start": 10, "end": 12}, {"text": "上空", "start": 13, "end": 15}, {"text": "塔台", "start": 18, "end": 20}], "prompt": "动作值"}
+{"content": "上幺五，六海里飞向临时洞六，拐洞Juliett幺", "result_list": [{"text": "上", "start": 0, "end": 1}, {"text": "飞向", "start": 7, "end": 9}], "prompt": "动作"}
+{"content": "上幺五，六海里飞向临时洞六，拐洞Juliett幺", "result_list": [{"text": "幺五", "start": 1, "end": 3}, {"text": "临时洞六", "start": 9, "end": 13}], "prompt": "动作值"}
+{"content": "上幺五，六海里飞向临时洞六，拐洞Juliett幺", "result_list": [{"text": "六海里", "start": 4, "end": 7}], "prompt": "前提条件"}
+{"content": "上幺五，六海里飞向临时洞六，拐洞Juliett幺", "result_list": [{"text": "拐洞Juliett幺", "start": 14, "end": 24}], "prompt": "呼号"}
+{"content": "拐洞Kilo六，九百飞上空，联系塔台再见", "result_list": [{"text": "拐洞Kilo六", "start": 0, "end": 7}], "prompt": "呼号"}
+{"content": "拐洞Kilo六，九百飞上空，联系塔台再见", "result_list": [{"text": "九百", "start": 8, "end": 10}, {"text": "上空", "start": 11, "end": 13}, {"text": "塔台", "start": 16, "end": 18}], "prompt": "动作值"}
+{"content": "拐洞Kilo六，九百飞上空，联系塔台再见", "result_list": [{"text": "飞", "start": 10, "end": 11}, {"text": "联系", "start": 14, "end": 16}], "prompt": "动作"}
+{"content": "拐洞Uniform六，飞向灵泉寺下九百", "result_list": [{"text": "拐洞Uniform六", "start": 0, "end": 10}], "prompt": "呼号"}
+{"content": "拐洞Uniform六，飞向灵泉寺下九百", "result_list": [{"text": "飞向", "start": 11, "end": 13}, {"text": "下", "start": 16, "end": 17}], "prompt": "动作"}
+{"content": "拐洞Uniform六，飞向灵泉寺下九百", "result_list": [{"text": "灵泉寺", "start": 13, "end": 16}, {"text": "九百", "start": 17, "end": 19}], "prompt": "动作值"}
+{"content": "额一千，向台报，三六八幺", "result_list": [{"text": "一千", "start": 1, "end": 3}], "prompt": "动作值"}
+{"content": "额一千，向台报，三六八幺", "result_list": [{"text": "向台", "start": 4, "end": 6}], "prompt": "前提条件"}
+{"content": "额一千，向台报，三六八幺", "result_list": [{"text": "报", "start": 6, "end": 7}], "prompt": "动作"}
+{"content": "额一千，向台报，三六八幺", "result_list": [{"text": "三六八幺", "start": 8, "end": 12}], "prompt": "呼号"}
+{"content": "哎右转飞远台，九两八两", "result_list": [{"text": "右转飞", "start": 1, "end": 4}], "prompt": "动作"}
+{"content": "哎右转飞远台，九两八两", "result_list": [{"text": "远台", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "哎右转飞远台，九两八两", "result_list": [{"text": "九两八两", "start": 7, "end": 11}], "prompt": "呼号"}
+{"content": "好嘞，下一千九海里报，拐洞Lima幺", "result_list": [{"text": "下", "start": 3, "end": 4}, {"text": "报", "start": 9, "end": 10}], "prompt": "动作"}
+{"content": "好嘞，下一千九海里报，拐洞Lima幺", "result_list": [{"text": "一千", "start": 4, "end": 6}], "prompt": "动作值"}
+{"content": "好嘞，下一千九海里报，拐洞Lima幺", "result_list": [{"text": "九海里", "start": 6, "end": 9}], "prompt": "前提条件"}
+{"content": "好嘞，下一千九海里报，拐洞Lima幺", "result_list": [{"text": "拐洞Lima幺", "start": 11, "end": 18}], "prompt": "呼号"}
+{"content": "啊九百灵泉寺，拐洞Kilo八", "result_list": [{"text": "九百", "start": 1, "end": 3}, {"text": "灵泉寺", "start": 3, "end": 6}], "prompt": "动作值"}
+{"content": "啊九百灵泉寺，拐洞Kilo八", "result_list": [{"text": "拐洞Kilo八", "start": 7, "end": 14}], "prompt": "呼号"}
