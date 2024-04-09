@@ -24,23 +24,15 @@ The format of the annotated data is as follows:
 
 This paper introduces a prompt classification task, hence requiring the annotated data to be transformed into the following format: 
 
-1.
-  {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "东方两八洞六", "start": 0, "end": 6}], "prompt": "呼号"}
-  
-  {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "地面幺两幺点六", "start": 8, "end": 15}], "prompt": "动作值"}
-  
-  {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "联系", "start": 6, "end": 8}], "prompt": "动作"}
-  
-  {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [], "prompt": "前提条件"}
-  
-2.
-  {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [], "prompt": "动作值"}
-  
-  {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "三五右跑道外", "start": 0, "end": 6}], "prompt": "前提条件"}
-  
-  {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "等", "start": 6, "end": 7}], "prompt": "动作"}
-  
-  {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "吉祥幺幺拐六", "start": 7, "end": 13}], "prompt": "呼号"}
+1. {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "东方两八洞六", "start": 0, "end": 6}], "prompt": "呼号"}
+   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "地面幺两幺点六", "start": 8, "end": 15}], "prompt": "动作值"}
+   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "联系", "start": 6, "end": 8}], "prompt": "动作"}
+   {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [], "prompt": "前提条件"}
+   
+3. {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [], "prompt": "动作值"}
+   {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "三五右跑道外", "start": 0, "end": 6}], "prompt": "前提条件"}
+   {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "等", "start": 6, "end": 7}], "prompt": "动作"}
+   {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "吉祥幺幺拐六", "start": 7, "end": 13}], "prompt": "呼号"}
 
 When the value of result_list is empty, the sample is a negative example for the prompt classification task, and its classification task label is 
 marked as 0. When the value of result_list is not empty, the sample is a positive example for the prompt classification task, and its classification
@@ -48,11 +40,8 @@ task label is marked as 1. Considering the imbalance between positive and negati
 process employs a weighted Binary Cross-Entropy (BCE) loss, the parameters of which can be found in the paper.
 
 Execution Steps:
-
 1.Prepare the data and place it under the './data/cner/final_data/' folder.
-
 2.Navigate to the current directory and execute the training code with the following command:
-
 python train.py 
     --train_path "./data/cner/final_data/XXX.txt" \
     --dev_path "./data/cner/final_data/XXX.txt" \
@@ -68,7 +57,6 @@ python train.py
     --device "gpu"
     
 3.Load the saved code, prepare the test data, and execute the following test code:
-
 python evaluate.py
     --model_path "./checkpoint/model_best" \
     --test_path "./data/cner/final_data/XXX.txt" \
@@ -79,13 +67,11 @@ Pre-trained parameters：
 You can find the pre-trained parameters in this link "https://drive.google.com/drive/folders/1HPOkcWM0nfOelpIv2J12v1kBvbbO5olp?usp=drive_link".
 
 Data Declaration:
-
 The small-sample data used for training in this article, due to domain restrictions, cannot be publicly disclosed here. Interested researchers 
 may obtain it through a reasonable request; please contact: darcy981020@gmail.com. The test dataset consists of training flight data from a specific
 location, accessible in the corresponding data folder. Detailed data descriptions can be found in the paper; please cite the source before use.
 
 Reference Note:
-
 This code is based on the official UIE code provided by PaddlePaddle, with a series of innovative improvements made for the features of the air 
 traffic control dataset.
 
