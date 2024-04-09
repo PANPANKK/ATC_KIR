@@ -29,7 +29,7 @@ This paper introduces a prompt classification task, hence requiring the annotate
    {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [{"text": "联系", "start": 6, "end": 8}], "prompt": "动作"}
    {"content": "东方两八洞六联系地面幺两幺点六再见", "result_list": [], "prompt": "前提条件"}
    
-3. {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [], "prompt": "动作值"}
+2. {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [], "prompt": "动作值"}
    {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "三五右跑道外", "start": 0, "end": 6}], "prompt": "前提条件"}
    {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "等", "start": 6, "end": 7}], "prompt": "动作"}
    {"content": "三五右跑道外等吉祥幺幺拐六", "result_list": [{"text": "吉祥幺幺拐六", "start": 7, "end": 13}], "prompt": "呼号"}
